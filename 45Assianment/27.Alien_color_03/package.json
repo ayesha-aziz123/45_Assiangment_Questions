@@ -1,0 +1,15 @@
+{
+  "name": "27.alien_color_03",
+  "version": "1.0.0",
+  "description": "ALien_color_03",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AYESHA",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.11.30"
+  }
+}
